@@ -3,6 +3,13 @@
 
 Example of FastAPI with pytests.
 
+## Testing
+
+1. Create a virtual env: `python3.8 -m venv .venv`
+2. Activate it: `source .venv/bin/activate`
+3. Install depenencies: `pip install -r requirements.txt -r requirements-dev.txt`
+4. Run: `pytest tests/`
+
 ## Running
 
 ### Locally
